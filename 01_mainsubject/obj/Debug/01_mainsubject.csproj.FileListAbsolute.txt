@@ -1,0 +1,7 @@
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\bin\Debug\01_mainsubject.exe.config
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\bin\Debug\01_mainsubject.exe
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\bin\Debug\01_mainsubject.pdb
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\obj\Debug\01_mainsubject.csproj.AssemblyReference.cache
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\obj\Debug\01_mainsubject.csproj.CoreCompileInputs.cache
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\obj\Debug\01_mainsubject.exe
+C:\Users\zubey\OneDrive\Masaüstü\CSharp\CSharpEgitimKampi\01_mainsubject\obj\Debug\01_mainsubject.pdb
